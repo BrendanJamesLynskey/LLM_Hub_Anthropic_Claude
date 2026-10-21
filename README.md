@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Anthropic Claude
 
 Comprehensive presentation series on Anthropic Claude &mdash; models, Claude.ai, Claude Code, the API and SDKs, integrations, agents, productivity, Claude Desktop and hands-on workflow walkthroughs.
